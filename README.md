@@ -31,7 +31,7 @@ To run the portfolio locally:
 
 1. Clone the repo:
 
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/harsha1-2-3/AnishPortfolio/tree/main
 
 
 2. Open index.html in your browser.
